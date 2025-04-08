@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **GNSS**
 
-- 👨‍💻 All of my projects are available at [[portfolio link](https://github.com/weihdong)]([portfolio link](https://github.com/weihdong))
+- 🤝 I’m looking for help with [github-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 
-- 📝 I regularly write articles on [[weihdong's blog](https://weihdong.github.io/)]([weihdong's blog](https://weihdong.github.io/))
+- 👨‍💻 All of my projects are available at [https://github.com/weihdong](https://github.com/weihdong)
+
+- 📝 I regularly write articles on [https://weihdong.github.io/](https://weihdong.github.io/)
 
 - 📫 How to reach me **weihdong@hotmail.com**
 
